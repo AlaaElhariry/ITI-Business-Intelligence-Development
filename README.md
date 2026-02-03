@@ -5,7 +5,7 @@
 
 ## 🧠 Learning Progress 
 ### 1️⃣ Python for Data Analysis
-#### 📂 01-Python
+#### 📂 Python
 - Python Basics
 - Data Structures (Lists, Tuples, Dictionaries)
 - Functions & Modules
